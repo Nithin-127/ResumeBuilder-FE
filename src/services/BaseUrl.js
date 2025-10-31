@@ -1,1 +1,1 @@
-export const BaseUrl = "http://localhost:3000";
+export const BaseUrl = "https://resume-builder-be-jas8.onrender.com";
